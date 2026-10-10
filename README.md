@@ -1,4 +1,4 @@
-# 📚 Tugas Kuliah - [Nama Mata Kuliah]
+# 📚 Tugas Kuliah - Mobile Programing
 
 ## 👤 Identitas
 - **Nama**: Yafi Mahardika  
@@ -44,9 +44,12 @@ assets/
 1. Clone repository:
    ```bash
    git clone https://github.com/[username]/[nama-repo].git
-
+2. Masuk ke folder
+   ```bash
    cd [nama-repo]
-
+   
+4. Jalankan kode
+   ```bash
    flutter run
 
 
