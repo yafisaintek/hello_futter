@@ -30,13 +30,7 @@ Tugas mata kuliah mobile programing pertemuan 3
 ---
 
 ## 📂 Struktur Project
-lib/
-└── main.dart
-assets/
-└── images/
-└── profile.jpg
-
-## 
+-
 
 ---
 
