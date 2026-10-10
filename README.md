@@ -1,17 +1,53 @@
-# hello_flutter
+# 📚 Tugas Kuliah - [Nama Mata Kuliah]
 
-A new Flutter project.
+## 👤 Identitas
+- **Nama**: Yafi Mahardika  
+- **NIM**: 4124046  
+- **Universitas**: Universitas Pesantren Tinggi Darul Ulum Jombang  
+- **Program Studi**: Sistem Informasi  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📝 Deskripsi Tugas
+Tugas mata kuliah mobile programing pertemuan 3
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 🎯 Tujuan Pembelajaran
+- Melatih penggunaan **StatelessWidget**.
+- Memahami layout dasar Flutter (Row, Column, Stack, Container).
+- Menerapkan **responsive design** dengan MediaQuery/LayoutBuilder.
+- Membuat tampilan profil sederhana dengan badge, kontak, dan skill.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## ⚙️ Teknologi & Tools
+- **Bahasa**: Dart  
+- **Framework**: Flutter  
+- **IDE**: VS Code / Android Studio  
+- **Version Control**: GitHub  
+
+---
+
+## 📂 Struktur Project
+lib/
+└── main.dart
+assets/
+└── images/
+└── profile.jpg
+
+## 
+
+---
+
+## 🚀 Cara Menjalankan
+1. Clone repository:
+   ```bash
+   git clone https://github.com/[username]/[nama-repo].git
+
+   cd [nama-repo]
+
+   flutter run
+
+
+
